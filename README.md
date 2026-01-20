@@ -4,6 +4,6 @@
 - 🛠️ Experienced with Docker, CI/CD, and modern DevOps workflows
 - 🔬 Currently researching automated monolith-to-microservices decomposition (Final Year Project)
 - 📫 Reach me at himindukularathne@gmail.com
-- 🌐 Portfolio: https://himindu.online
+- 🌐 Portfolio: <a href="https://himindu.online" target="_blank" rel="noopener noreferrer">himindu.online</a>
 - 😄 Pronouns: no-pronouns
 - ⚡ Tech fact: Programming’s roots go back to Ada Lovelace (1840s) — I enjoy continuing that legacy by turning ideas into production-ready systems.
