@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Himindu-Kularathne
-- 👀 I’m interested in web and mobile application developing
-- 🌱 I’m currently learning Devops..
-- 📫 How to reach me : himindukularathne@gmail.com
-- 😄 Pronouns: no-pronouns
-- ⚡ Tech fact: The first computer programmer was Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s
-
-<!---
-Himindu-Kularathne/Himindu-Kularathne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-Stack Engineer (Web • Mobile • Blockchain)
+👀 I’m passionate about building scalable web & mobile applications, clean architectures, and real-world products
+🧠 Strong focus on React / React Native, Spring Boot & Node.js microservices, cloud-native systems, and blockchain (Web3, Solidity)
+🛠️ Experienced with Docker, CI/CD, and modern DevOps workflows
+🔬 Currently researching automated monolith-to-microservices decomposition (Final Year Project)
+📫 Reach me at himindukularathne@gmail.com
+🌐 Portfolio: https://himindu.online
+😄 Pronouns: no-pronouns
+⚡ Tech fact: Programming’s roots go back to Ada Lovelace (1840s) — I enjoy continuing that legacy by turning ideas into production-ready systems.
